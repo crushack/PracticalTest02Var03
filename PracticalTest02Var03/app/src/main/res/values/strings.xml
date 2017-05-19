@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalTest02Var03</string>
+    <string name="QUERY_ATTRIBUTE">word</string>
+    <string name="WEB_SERVICE_ADDRESS">http://services.aonaware.com/DictService/DictService.asmx/Define?word=</string>
+</resources>
